@@ -5,6 +5,7 @@ Using SQL as my primary tool, I delved into the Kaggle Olympics dataset to unear
 
 The analysis journey led me to discover captivating stories and uncover hidden gems within the dataset. I meticulously analyzed the performance of nations, identified dominant sports, and even examined the gender ratio of participating athletes across different editions of the Olympics.
 
+The following operations was carried out 
 Data Cleaning
 Data Wrangling 
 Data Mining
